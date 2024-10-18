@@ -1,3 +1,23 @@
+
+# HR Management System
+
+## Overview
+
+This HR Management System is a web application designed to streamline various human resources processes, including employee management, payroll, performance tracking, and more. Built using modern technologies, this application provides a user-friendly interface and robust functionality.
+
+## Technologies Used
+
+- **Next.js**: A powerful React framework for server-side rendering and building static websites.
+- **TypeScript**: A superset of JavaScript that adds static types, helping to catch errors during development and improve code quality.
+- **Acentry UI**: A customizable and responsive UI component library that enhances the application's user interface.
+
+## Features
+
+- **Employee Management**: Easily add, update, and delete employee records.
+- **Payroll Management**: Generate and manage payroll for employees, including salary slips.
+- **Performance Tracking**: Monitor and assess employee performance with detailed history.
+- **Responsive Design**: A modern, mobile-friendly interface for seamless access on any device.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
